@@ -21,6 +21,6 @@ It can also be used to test GLSL shaders, just by modifying or extending the exi
     as the name is changed. 
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
     0. You just DO WHAT THE FUCK YOU WANT TO.
